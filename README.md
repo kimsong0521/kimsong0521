@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kimsong0521
+- 👀 I’m interested in frontend technologies
+- 🌱 I’m currently learning javascript
